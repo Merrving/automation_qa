@@ -2,7 +2,7 @@ import pytest
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 
-
+# proba init commit
 @pytest.fixture(scope='function')
 
 def driver():
